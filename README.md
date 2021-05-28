@@ -1,6 +1,8 @@
 # Lampshade-Lattice
 This is OpenSCAD (.scad file) for Lamsphade Lattice
 
+https://youtu.be/CZS6Gu-fCTA
+
 ![image](https://user-images.githubusercontent.com/64700114/120011485-5538d480-bfac-11eb-84df-523a263feccc.png)
 ![image](https://user-images.githubusercontent.com/64700114/120011580-74376680-bfac-11eb-9dfd-4e11237cd89b.png)
 ![image](https://user-images.githubusercontent.com/64700114/120011603-7dc0ce80-bfac-11eb-8acb-930dcdfd7989.png)
